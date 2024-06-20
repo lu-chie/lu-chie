@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luchie and I'm 24 years old
+- 👋 Hi, I’m Luchie and I'm 25 years old
 - 👀 I’m interested in videogames, movies and music
 - 🌱 I’m currently learning c# front end development, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on game development, software frontend development and websites
