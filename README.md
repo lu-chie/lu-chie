@@ -6,6 +6,10 @@
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: my main character in Genshin Impact is Wanderer!
 
+!lu-chie's Stats
+!lu-chie's Streak
+!lu-chie's Top Languages
+
 <!---
 luc-bs/luc-bs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
