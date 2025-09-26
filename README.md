@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/luchie_♡-black" />
+  <img src="https://img.shields.io/badge/kitsune_♡-black" />
 </div>
       
 <br>
